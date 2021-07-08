@@ -1,0 +1,25 @@
+.login-form {
+  &__link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: center;
+    color: #51c100;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.login input {
+  display: block;
+  margin: 10px auto;
+}
+
+.login button {
+  display: block;
+  margin: 0 auto;
+}

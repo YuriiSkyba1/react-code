@@ -1,0 +1,14 @@
+.registration-page {
+    &__widget-wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  
+      .login-widget__submit {
+        width: 100%;
+      }
+    }
+  
+  
+  }
+  
